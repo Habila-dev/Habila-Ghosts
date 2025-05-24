@@ -1,0 +1,7 @@
+Clean up project, improve installation, and upgrade Python version
+
+Removes unused files, reorganizes the project structure, adds a requirements.txt, and upgrades the Python version to 3.13 in runtime.txt.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: c1f50956-e205-45a9-a04f-cc17615cd177
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/c3dd2bd7-c5d9-425f-8a94-706be31a7e80/d08c1a12-1066-411e-8e8a-ad1b4ea19e4e.jpg
